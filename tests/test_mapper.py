@@ -134,5 +134,6 @@ class TestMapper(unittest.TestCase):
 
         assert source['source_attr_2'][0]['source_attr_4']['source_attr_5'] == result['dest_attr_4'][0]['source_attr_5']
 
+
 if __name__ == '__main__':
     unittest.main()

@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Testing playground
+pg.py
+
 # C extensions
 *.so
 
